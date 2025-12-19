@@ -29,7 +29,8 @@ You can send NDC Wallet to family or friends, or pay for goods or services, **an
 The NDC Wallet is **decentralized** and free from middlemen, giving you back control of your finances and providing a **secure network** for all of your payments.
 
 Some of the NDC Wallet features: **Fast, Efficient, Social, Community based (like Bitcoin), Transparency, Secure Messages, friendly to use, Universal name, Multicultural, Multi-platform, IoT(Internet of Things), Tor and i2p compatible**.
-
+#Binance btc wallet adress
+bc1pcjrrde9qy2j2pl8jrnwvv0k5cynymyfvwsl08qnytgjgz9vfj6pq7pvlt4
 --------------------
 
 ## Visit NDC Wallet Smart Links and join the different community channels
